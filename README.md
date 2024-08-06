@@ -1,5 +1,9 @@
 # 🍕 Kendall Rey Mozo
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KendallRey)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KendallRey)
+
 #
 ### 🛠️ Languages and Tools
 <img align="left" width="30px" style="padding-right:10px;" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
