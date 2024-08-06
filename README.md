@@ -1,4 +1,8 @@
-# 🍕 Kendall Rey Mozo
+# 🍕 Hello There!👋 I'm Kendall Rey Mozo
+
+- 💼 I'm currently working as Front End Developer at Pro-Solutions Technology, Co.
+- 💻 Passionate developer with expertise in React.js
+- 🎮 Like Gaming, simple models / animations in Blender, and experimenting with Arduino
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KendallRey)
 
