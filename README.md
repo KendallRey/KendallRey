@@ -2,7 +2,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KendallRey)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KendallRey)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KendallRey&theme=react)
 
 #
 ### 🛠️ Languages and Tools
