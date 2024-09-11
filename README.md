@@ -10,6 +10,7 @@
 
 #
 ### 🛠️ Languages and Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 <img align="left" width="30px" style="padding-right:10px;" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="AndroidStudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
@@ -26,14 +27,16 @@
 <img align="left" width="30px" style="padding-right:10px;" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+</div>
 
+#
 ### ✏️ Basic Level 📏
-- Currently learning, Self-study
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
-
+</div>
 
 <!-- TO ADD
 Get icons HERE! -> https://devicon.dev/
