@@ -27,6 +27,14 @@
 <img align="left" width="30px" style="padding-right:10px;" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 
+### ✏️ Basic Level 📏
+- Currently learning, Self-study
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+
+
 <!-- TO ADD
 Get icons HERE! -> https://devicon.dev/
 
@@ -38,7 +46,7 @@ Get icons HERE! -> https://devicon.dev/
 <img align="left" width="30px" style="padding-right:10px;" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px;" alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+
 <img align="left" width="30px" style="padding-right:10px;" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
@@ -46,7 +54,7 @@ Get icons HERE! -> https://devicon.dev/
 <img align="left" width="30px" style="padding-right:10px;" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="PhotonEngine" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photonengine/photonengine-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" width="30px" style="padding-right:10px;" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+
 <img align="left" width="30px" style="padding-right:10px;" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="RubyOnRails" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"/>
 <img align="left" width="30px" style="padding-right:10px;" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
