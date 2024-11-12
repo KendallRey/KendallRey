@@ -4,8 +4,13 @@
 - 💻 Passionate developer with expertise in React.js
 - 🎮 Like Gaming, simple models / animations in Blender, and some stuffs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KendallRey)
+<a href="https://nx-mono-nextjs-portfolio-git-portfolio-kendallreys-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/user-attachments/assets/947644bf-fcbb-4a7a-9eda-81fddb8cbafa" alt="KR Portfolio"/>
+</a>
+<hr/>
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KendallRey)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KendallRey&theme=react)
 
 #
