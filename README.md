@@ -4,7 +4,7 @@
 - 💻 Passionate developer with expertise in React.js
 - 🎮 Like Gaming, simple models / animations in Blender, and some stuffs
 
-<a href="https://nx-mono-coral.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://kendall-rey-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/user-attachments/assets/6a6592a4-2500-47eb-9786-c410df58ab9f" alt="KR Portfolio"/>
 </a>
 <hr/>
